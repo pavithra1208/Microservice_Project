@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\OneDrive - LTTS\Desktop\Microservice_Project\LoginService-oauthSecurity"/>
+			<item value="D:\OneDrive - LTTS\Desktop\Microservice_Project\sprinsecurity-jwt"/>
+			<item value="D:\OneDrive - LTTS\Desktop\Microservice_Project\API_Gateway"/>
+			<item value="D:\OneDrive - LTTS\Desktop\Microservice_Project\MicroService_three"/>
+			<item value="D:\OneDrive - LTTS\Desktop\Microservice_Project\Microservice_two"/>
+			<item value="D:\OneDrive - LTTS\Desktop\Microservice_Project\Microservice_one"/>
+			<item value="D:\OneDrive - LTTS\Desktop\Microservice_Project\microservice_eureka_server"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
